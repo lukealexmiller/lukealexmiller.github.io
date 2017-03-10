@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: Site Title
-locale: en_US
-description: Describe your website here.
+title: Learning About Learning
+locale: en_UK
+description: Thoughts and insights from a physicist discovering deep learning.
 logo: site-logo.png
 search: true
 url: http://localhost:4000
@@ -36,13 +36,13 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  email: you@email.com
+  name: Luke Miller
+  avatar: profile.jpg
+  email: lukealexmiller@gmail.com
   disqus-shortname:
-  twitter: #username
+  twitter: lukealexmiller
   facebook: #username
-  github: #username
+  github: lukealexmiller
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username
