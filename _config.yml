@@ -32,7 +32,7 @@ google_fonts:
     weights: "400,400i,700,700i"
 google_analytics: # Google Analytics id, e.g. "UA-NNNNNNNN-N"
 disqus:
-  shortname: # Disqus shortname, e.g. "my_disqus_shortname"
+  shortname: "lukealexmiller" # Disqus shortname, e.g. "my_disqus_shortname"
 twitter:
   username: "lukealexmiller" # site's Twitter username, e.g. "mmistakes"
 
@@ -88,8 +88,8 @@ defaults:
 # Site Author
 author:
   name: Luke Miller
-  picture:
-  email: lukealexmiller@gmail.com
+  picture: /images/profile.jpg
+  email:
   twitter: lukealexmiller
   github: lukealexmiller
   links:
@@ -99,7 +99,14 @@ author:
 
 # Footer Links
 footer_links:
+  - title: Twitter
+    url: https://twitter.com/lukealexmiller
+    icon: fab fa-twitter-square
+  - title: GitHub
+    url: https://github.com/lukealexmiller
+    icon: fab fa-github-square
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
 
+# copyright: "This site is made with <3 by *me, myself, and I*."
